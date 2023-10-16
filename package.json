@@ -1,7 +1,7 @@
 {
-  "name": "TheMystic-Bot-MD",
-  "version": "1.0.0",
-  "description": "Subs. al canal de YT The Shadow Borkers - TEAM",
+  "name": "Gabby-Bot-MD",
+  "version": "2.0.0",
+  "description": "just Gabby",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "homepage": "https://github.com/Gabrieljerad/TheMystic-Bot-MD",
   "author": {
-    "name": "BrunoSobrino"
+    "name": "Gabby"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+    "url": "https://github.com/Gabrieljerad/TheMystic-Bot-MD"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
